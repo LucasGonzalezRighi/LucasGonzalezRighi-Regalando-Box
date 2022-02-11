@@ -27,7 +27,7 @@ export default  function NavBar(){
                         <a className="nav-link" href="productos.html">Sobre nuestros productos</a>
                         <a className="nav-link" href="tienda.html">Tienda</a>
                         <a className="nav-link" href="refill.html">Refill</a>
-                        <p>hola mundo</p>
+                        <p>hola mundo soy lucas</p>
                     </div>
                 </div>
                 <CartWidget />
